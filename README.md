@@ -3,7 +3,11 @@ BootInspect
 
 A simple tool for visually displaying columns in a Bootstrap 3 based page. The objective was to give a visual outline and labeling of what column sizes are happening at different screen sizes. This helps debug and sort out building layouts with Bootstrap. In particular it proves its worth when mixing in push, pull and offset.
 
-In a future update I want to add labels for push, pull and offset as well. 
+In a future update I want to add labels for push, pull and offset as well. I also plan to build a bookmarklet that will allow you to instantly run it on any page via a favorite link.
+
+Origin
+==============
+[I](http://pmcneil.com) teach basic web coding courses at the University level and I found it was really helpful to provide a visualization for students when learning Bootstrap. While it started as a teaching aid, I quickly found that I wanted to use it in every project I work on. As a part of a workshop for FOWD I decided to formalize the tool and see if anyone else wanted to use it. 
 
 jQuery
 ===========
