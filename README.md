@@ -5,9 +5,9 @@ A simple tool for visually displaying columns in a Bootstrap 3 based page. The o
 
 In a future update I want to add labels for push, pull and offset as well. I also plan to build a bookmarklet that will allow you to instantly run it on any page via a favorite link.
 
-Origin
+Who
 ==============
-[I](http://pmcneil.com) teach basic web coding courses at the University level and I found it was really helpful to provide a visualization for students when learning Bootstrap. While it started as a teaching aid, I quickly found that I wanted to use it in every project I work on. As a part of a workshop for FOWD I decided to formalize the tool and see if anyone else wanted to use it. 
+BootInspect is the product of [Patrick McNeil](http://pmcneil.com). The creator of [Design Meltdown](http://designmeltdown.com). 
 
 jQuery
 ===========
