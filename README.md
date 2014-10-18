@@ -18,3 +18,8 @@ Using it is simple:
 * Open the page in a browser - The JS file runs the inspection tool. 
 
 Simply remove the CSS and JS file when you are done building your page.
+
+
+License
+==============
+Copyright (c) 2014 Patrick McNeil. Licensed under the MIT license.
