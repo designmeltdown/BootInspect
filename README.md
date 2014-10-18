@@ -23,7 +23,7 @@ Demonstrations
 ==================
 Seeing what this does is probably even more helpful:
 
-![Basic Columns](https://www.dropbox.com/s/lp8y0qji54v1104/basic-columns.jpg?dl=0)
+![Basic Columns](https://cloud.githubusercontent.com/assets/2159602/4690006/c47e89b6-56d6-11e4-8d46-836c49559afc.jpg)
 Here you can see that BootInspect has outlined containers in blue, rows in red and columns in green. It uses CSS outlines so as to not mess up the spacing of things. Also you will notice it has labeled the columns to indicate which size column it is!
 
 
