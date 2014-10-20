@@ -23,6 +23,8 @@ Or, simply loaded the GitHub hosted files into your page with this snippet:
 <script src="https://cdn.rawgit.com/designmeltdown/BootInspect/master/bootinspect.js"></script>
 ```
 
+NOTE: BootInspect requires jQuery. Be sure to attach the JS file to your page after your jQuery reference.
+
 Simply remove the CSS and JS file when you are done building your page.
 
 Demonstrations
