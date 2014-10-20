@@ -1,9 +1,9 @@
+BootInspect [project page](http://designmeltdown.github.io/BootInspect/).
+
 BootInspect
 ===========
 
 A simple tool for visually displaying columns in a Bootstrap 3 based page. The objective was to give a visual outline and labeling of what column sizes are happening at different screen sizes. This helps debug and sort out building layouts with Bootstrap. In particular it proves its worth when mixing in push, pull and offset.
-
-In a future update I want to add labels for push, pull and offset as well. I also plan to build a bookmarklet that will allow you to instantly run it on any page via a favorite link.
 
 Who
 ==============
@@ -15,11 +15,13 @@ BootInspect requires that you have jQuery running on the page. I am sure it coul
 
 How to use it
 ===========
-Using it is simple:
+Download the CSS and JS file and attach them to your page.
 
-* Attach the CSS file to the page
-* Attach the JS file to the page
-* Open the page in a browser - The JS file runs the inspection tool. 
+Or, simply loaded the GitHub hosted files into your page with this snippet:
+```
+<link rel="stylesheet" type="text/css" href="https://cdn.rawgit.com/designmeltdown/BootInspect/master/bootinspect.css"> 
+<script src="https://cdn.rawgit.com/designmeltdown/BootInspect/master/bootinspect.js"></script>
+```
 
 Simply remove the CSS and JS file when you are done building your page.
 
