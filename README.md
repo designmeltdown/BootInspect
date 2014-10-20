@@ -17,7 +17,7 @@ How to use it
 ===========
 Download the CSS and JS file and attach them to your page.
 
-Or, simply loaded the GitHub hosted files into your page with this snippet (this is a hacky approach - but great for quick debugging):
+Or, simply load the GitHub hosted files into your page with this snippet (this is a hacky approach - but great for quick debugging):
 ```html
 <link rel="stylesheet" type="text/css" href="https://cdn.rawgit.com/designmeltdown/BootInspect/master/bootinspect.css"> 
 <script src="https://cdn.rawgit.com/designmeltdown/BootInspect/master/bootinspect.js"></script>
