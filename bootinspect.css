@@ -15,7 +15,25 @@ html body .container .row .bi{
 	z-index:100;
 	width:80px;
 	text-align:center;
+	font-size:12px !important;
+	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
+
+.bi-push{
+	top:17px;	
+}
+.bi-pull{
+	top:34px;	
+}
+.bi-offset{
+	top:51px;	
+}
+
+/* for nested rows */
+.row .row .bi{
+	right:82px;
+}
+
 
 .bi-container-outline{
 	outline: 6px dotted #1EB4E9;	
@@ -24,8 +42,8 @@ html body .container .row .bi{
 .bi-row{
 	background-color:#FF9600 !important;	
 }
-.bi-row-outline{
-	outline: 3px dotted #FF0000;	
+.bi-row-outline, .container .row .bi-row-outline{
+	outline: 3px dotted #FF0000 ;	
 }
 
 
@@ -80,7 +98,7 @@ html body .container .row .bi{
 }
 @media (min-width: 1200px) { 
 /* lg styles */
-	.bi-lg{
+.bi-lg{
 	background-color:#02F53B !important;
 	z-index:400;
 }
