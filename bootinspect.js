@@ -36,14 +36,11 @@ $( document ).ready(function() {
 
 
 function biElement(target, showOn, type){
-	//alert(target+":"+showOn+":"+type); 
 	$(".container .row ." + target).prepend("<div class='bi bi-" + type + " bi-" + showOn + " bi-" + target + "'>" + target.substring(4,target.length) + "</div>").addClass("bi-" + target + "-outline");
 	$(".container-fluid .row ." + target).prepend("<div class='bi bi-" + showOn + " bi-" + target + "'>" + target.substring(4,target.length) + "</div>").addClass("bi-" + target + "-outline");	
 }
 
 function idBootstrapElement(count, type){
-	
-	
 	var sizes = ["xs","sm","md","lg"]
 	for(x=0; x<4 ; x++){
 		i = 1;
