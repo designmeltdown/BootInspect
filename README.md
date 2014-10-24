@@ -5,6 +5,8 @@ BootInspect
 
 A simple tool for visually displaying columns in a Bootstrap 3 based page. The objective was to give a visual outline and labeling of what column sizes are happening at different screen sizes. This helps debug and sort out building layouts with Bootstrap. In particular it proves its worth when mixing in push, pull and offset.
 
+Visit the demo site to see how BootInspect outlines the containers, rows and columns. I think you will love it: [BootInspect Demo](http://hipstersdelight.com/)
+
 Who
 ==============
 BootInspect is the product of [Patrick McNeil](http://pmcneil.com). The creator of [Design Meltdown](http://designmeltdown.com). 
