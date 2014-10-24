@@ -62,7 +62,7 @@ This tool is not meant to replace [BootLint](https://github.com/twbs/bootlint). 
 
 Release History
 ==============
-* 2014/10/20 - First formal release in preperation for use at Future of Web Deisgn NYC
+* 2014/10/20 - First formal release in preperation for use at Future of Web Deisgn NYC [Announcement](http://pmcneil.com/2014/10/introducing-bootinspect-for-bootstrap/)
 
 License
 ==============
